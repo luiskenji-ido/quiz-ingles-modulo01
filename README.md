@@ -8,7 +8,7 @@
 Um aplicativo web interativo, responsivo e totalmente autônomo (roda offline) desenvolvido para gamificar aulas de inglês. O sistema foi projetado especificamente para revisar o módulo **"O Básico para a Comunicação"**, trazendo uma estética moderna baseada em painéis de e-sports/gaming.
 
 [Clique aqui para jogar o Quiz online]
-(https://luiskenji-ido.github.io/quiz-ingles-kultivi-modulo01/)
+(https://luiskenji-ido.github.io/quiz-ingles-modulo01/)
 
 ---
 
