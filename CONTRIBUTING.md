@@ -1,4 +1,4 @@
-# 🤝 Como Contribuir para o Quiz Kultivi
+# 🤝 Como Contribuir para o Quiz O Básico para a Comunicação
 
 Fico muito feliz com o seu interesse em melhorar este projeto pedagógico! Para contribuir, siga os passos:
 
